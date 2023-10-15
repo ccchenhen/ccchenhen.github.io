@@ -20,7 +20,7 @@ and uplink decoupled cell association," submitted to IEEE Transactions on Wirele
 
 # Journal Articles
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
-base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [IEEE](https://ieeexplore.ieee.org/document/9791134)
+base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791134)
 
 
 
