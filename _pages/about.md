@@ -18,9 +18,13 @@ My detailed education background and work experience can be found in [Education 
 ## Contact
 Email: c.chen77@liverpool.ac.uk  
 Department of Electrical Engineering and Electronics
+
 University of Liverpool
+
 Brownlow Hill
+
 Liverpool L69 3GJ
+
 United Kingdom
 
 
