@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in 
-* Ph.D in 
+* B.E. degree in Information Engineering, East China University of Science and Technology, Shanghai, China, 2014 - 2018
+* Ph.D. degree in Electrical and Electronic Engineering, University of Sheffield, UK, 2018 - 2022
