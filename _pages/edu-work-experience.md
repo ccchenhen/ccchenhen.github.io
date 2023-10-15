@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education Background
 ## Doctor of Philosophy in Wireless Communications
 * University of Sheffield, Sheffield, UK, 2018 - 2022
 * Advisors: Prof. Jie Zhang, Prof. Xiaoli Chu
@@ -19,8 +18,7 @@ Education
 ## Bachelor of Engineering in Information Engineering
 * East China University of Science and Technology, Shanghai, China, 2014 - 2018
 
-Work Experience
-======
+# Work Experience
 ## Postdoctoral Research Associate
 * University of Liverpool, Liverpool, UK, Jan 2022 - Present
 * Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
