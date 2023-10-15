@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
   
 # Education Background
-## Doctor of Philosophy in Wireless Communications
+## Doctor of Philosophy in Electronic and Electrical Engineering
 * University of Sheffield, Sheffield, UK, 2018 - 2022
-* Advisors: Prof. Jie Zhang, Prof. Xiaoli Chu
+* Advisors: Prof. [Jie Zhang](https://www.sheffield.ac.uk/eee/people/academic-staff/jie-zhang), Prof. [Xiaoli Chu](https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu)
 * Title of thesis: Tractable Performance Analysis for Outdoor and Indoor 3D Small-cell Networks
   
 ## Bachelor of Engineering in Information Engineering
@@ -21,6 +21,7 @@ redirect_from:
 # Work Experience
 ## Postdoctoral Research Associate
 * University of Liverpool, Liverpool, UK, Jan 2022 - Present
+* Supervisor: Dr. [Junqing Zhang](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
 * Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
   
 ## Marie Currie PhD Fellow
