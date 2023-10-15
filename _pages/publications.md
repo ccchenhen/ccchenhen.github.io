@@ -41,6 +41,16 @@ to indoor LOS MIMO communications?,” _IEEE Internet Things J._, vol. 7, no. 9,
 # Conference Papers
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
 multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [arXiv](https://arxiv.org/abs/2301.08179)
+* **C. Chen**, Y. Jiang, J. Zhang, X. Chu and J. Zhang, “Parameter optimization for energy efficient indoor massive
+MIMO small cell networks,” 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring), 2020, pp. 1-5. [PDF](https://ieeexplore.ieee.org/document/9129437)
+* T. Lu, L. Chen, J. Zhang, **C. Chen**, T. Q. Duong and M. Matthaiou, “Precoding design for key generation in
+near-field extremely large-scale MIMO communications,” accepted by 2023 IEEE Globecom Workshops.
+* T. Lu, L. Chen, J. Zhang, **C. Chen** and T. Q. Duong, “Reconfigurable intelligent surface-assisted key generation
+for millimeter wave communications,” 2023 IEEE Wireless Communications and Networking Conference
+(WCNC), 2023, pp. 1-6. [PDF](https://ieeexplore.ieee.org/abstract/document/10119128)
+* Y. Wang, H. Zheng, **C. Chen** and X. Chu, “The effect of wall blockages on indoor small cell networks with
+LOS/NLOS user association strategies,” 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring),
+2021, pp. 1-6. [PDF](https://ieeexplore.ieee.org/document/9448638)
 
 
 
