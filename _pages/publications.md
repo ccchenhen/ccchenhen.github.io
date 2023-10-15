@@ -33,6 +33,15 @@ a novel bounded path loss model," _Electron. Lett._, vol. 56, no. 2, pp. 105–1
 coordinated multi-cell MIMO network," _IEEE Trans. Wireless Commun._, vol. 22, no. 8, pp. 5685-5696, Aug. 2023. [PDF](https://ieeexplore.ieee.org/document/10017389)
 * T. Lu, L. Chen, J. Zhang, **C. Chen** and A. Hu, "Joint precoding and phase shift design in reconfigurable
 intelligent surfaces-assisted secret key generation," _IEEE Trans. Inf. Forensics Secur._, vol. 18, pp. 3251-3266, 2023. [PDF](https://ieeexplore.ieee.org/document/10106070)
+* M. Zhou, **C. Chen** and X. Chu, “Impact of 3D antenna radiation pattern on heterogeneous cellular networks,”
+_IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.org/document/9954398)
+* Y. Zhang, **C. Chen**, S. Yang, J. Zhang, X. Chu and J. Zhang, “How friendly are building materials as reflectors
+to indoor LOS MIMO communications?,” _IEEE Internet Things J._, vol. 7, no. 9, pp. 9116-9127, Sept. 2020. [PDF](https://ieeexplore.ieee.org/document/9127887)
+
+# Conference Papers
+* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
+multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [arXiv](https://arxiv.org/abs/2301.08179)
+
 
 
 
