@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chen Chen"
   avatar           : "My_photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  # bio              : "Postdoctoral Research Associate at the University of Liverpool"
+  location         : "Liverpool, UK"
+  # employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-0znbV8AAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
