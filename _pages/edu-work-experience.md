@@ -23,6 +23,11 @@ redirect_from:
 * University of Liverpool, Liverpool, UK, Jan 2022 - Present
 * Supervisor: Dr. [Junqing Zhang](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
 * Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
+
+## Marie Currie Industry Training Network Researcher
+* [Televic Conference](https://www.televic.com/en/conference), Izegem, Belgium, Oct 2020 - Sept 2021
+* Worked on optimizing the deployment of indoor millimetre wave multi-antenna wireless access points as well as their beamforming
+patterns. The secondment was conducted online due to the effect of Covid-19.
   
 ## Marie Currie PhD Fellow
 * University of Sheffield, Sheffield, UK, Sept 2018 - Sept 2021
