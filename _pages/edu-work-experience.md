@@ -31,7 +31,8 @@ patterns. The secondment was conducted online due to the effect of Covid-19.
   
 ## Marie Curie PhD Fellow
 * University of Sheffield, Sheffield, UK, Sept 2018 - Sept 2021
-* Network modelling and optimization for the dense deployment of millimetre wave MIMO small cells in indoor and outdoor built environments, funded by the European Union Horizon 2020 Research and Innovation Program under grant agreement 766231.
+* Network modelling and optimization for the dense deployment of millimetre wave MIMO small cells in indoor and outdoor built environments, funded by the European Union
+Horizon 2020 Research and Innovation Program under Marie Sklodowska-Curie Grant 766231 [WAVE-COMBE](https://wavecombe.eu/) H2020-MSCA-ITN-2017.
 
 
 
