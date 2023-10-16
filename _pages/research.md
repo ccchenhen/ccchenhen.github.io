@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on intelligent and secure wireless communications using advanced signal processing and machine learning approaches. More specifically, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. Additionally, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Finally, I develop secure physical layer key generation protocols based on wireless channels. I have (co)-authored 10+ articles in top-tier IEEE journals and conferences.
 
-# Modeling and Analysis of Large-scale Beyond 5G/6G Networks
+## Modeling and Analysis of Large-scale Beyond 5G/6G Networks
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid mmWave and THz networks with downlink
 and uplink decoupled cell association," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2308.05842)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
@@ -22,7 +22,7 @@ networks," _IEEE Trans. Wireless Commun._, vol. 20, no. 2, pp. 1336-1348, Feb. 2
 _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.org/document/9954398)
 
 
-# Machine Learning in Wireless Communications and Security
+## Machine Learning in Wireless Communications and Security
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [arXiv](https://arxiv.org/abs/2301.08077)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
@@ -30,7 +30,7 @@ systems: A machine learning-based approach," submitted to IEEE Transactions on I
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
 multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [arXiv](https://arxiv.org/abs/2301.08179)
 
-# Secure Key Generation Based on Wireless Channels
+## Secure Key Generation Based on Wireless Channels
 * **C. Chen**, J. Zhang and Y. Chen, "Adaptive quantization for key generation in low-power wide-area networks," submitted to IEEE Transactions on Information Forensics and Security. [arXiv](https://arxiv.org/abs/2310.07853)
 * * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
 systems: A machine learning-based approach," submitted to IEEE Transactions on Information Forensics and Security, major revision. [arXiv](https://arxiv.org/abs/2305.00043)
