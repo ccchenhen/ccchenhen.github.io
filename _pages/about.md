@@ -14,7 +14,7 @@ My detailed education background and work experience can be found in [Education 
 
 ## News!
 * (16 October 2023) Our paper, “A Distributed Machine Learning-Based Approach for IRS-Enhanced Cell-Free MIMO Networks,” has been accepted by IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2301.08077)
-* (30 May 2023) I have been awarded a [digital futures](https://www.digitalfutures.kth.se/) postdoctoral fellowship. I will work at KTH Royal Institute of Technology, supervised by Prof. Carlo Fischione and Prof. Emil Björnson.
+* (30 May 2023) I have been awarded a [digital futures](https://www.digitalfutures.kth.se/) postdoctoral fellowship. I will work at KTH Royal Institute of Technology, Sweden, supervised by Prof. Carlo Fischione and Prof. Emil Björnson.
 
 ## Contact
 Email: c.chen77@liverpool.ac.uk  
