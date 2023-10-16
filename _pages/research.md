@@ -22,7 +22,7 @@ networks," _IEEE Trans. Wireless Commun._, vol. 20, no. 2, pp. 1336-1348, Feb. 2
 _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.org/document/9954398)
 
 
-## Machine Learning in Wireless Communications and Security
+## Machine Learning for Wireless Communications and Security
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [arXiv](https://arxiv.org/abs/2301.08077)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
