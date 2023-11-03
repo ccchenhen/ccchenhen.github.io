@@ -33,7 +33,7 @@ multi-antenna systems,” accepted by IEEE International Conference on Communica
 ## Physical Layer Key Generation Based on Wireless Channels
 * **C. Chen**, J. Zhang and Y. Chen, "Adaptive quantization for key generation in low-power wide-area networks," submitted to IEEE Transactions on Information Forensics and Security. [arXiv](https://arxiv.org/abs/2310.07853)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
-systems: A machine learning-based approach," submitted to IEEE Transactions on Information Forensics and Security, major revision. [arXiv](https://arxiv.org/abs/2305.00043)
+systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [arXiv](https://arxiv.org/abs/2305.00043)
 * T. Lu, L. Chen, J. Zhang, **C. Chen** and A. Hu, "Joint precoding and phase shift design in reconfigurable
 intelligent surfaces-assisted secret key generation," _IEEE Trans. Inf. Forensics Secur._, vol. 18, pp. 3251-3266, 2023. [PDF](https://ieeexplore.ieee.org/document/10106070)
 * T. Lu, L. Chen, J. Zhang, **C. Chen** and T. Q. Duong, “Reconfigurable intelligent surface-assisted key generation
