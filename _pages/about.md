@@ -13,6 +13,7 @@ I am a Postdoctoral Research Associate at the University of Liverpool, UK. I rec
 My detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
 ## News!
+* (3 November 2023) Our paper, "Secret Key Generation for IRS-Assisted  Multi-Antenna Systems: A Machine Learning-Based Approach," has been accepted by IEEE Transactions on Information Forensics and Security.
 * (16 October 2023) Our paper, “A Distributed Machine Learning-Based Approach for IRS-Enhanced Cell-Free MIMO Networks,” has been accepted by IEEE Transactions on Wireless Communications. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * (30 May 2023) I have been awarded a [digital futures](https://www.digitalfutures.kth.se/) postdoctoral fellowship. I will work at KTH Royal Institute of Technology, Sweden, supervised by Prof. Carlo Fischione and Prof. Emil Björnson.
 
