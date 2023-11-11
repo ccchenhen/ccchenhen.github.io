@@ -16,7 +16,7 @@ and uplink decoupled cell association," submitted to IEEE Transactions on Wirele
 
 ## Journal Articles
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
-systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [arXiv](https://arxiv.org/abs/2305.00043)
+systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF](https://ieeexplore.ieee.org/document/10315046)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
