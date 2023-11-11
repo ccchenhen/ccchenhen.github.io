@@ -28,7 +28,7 @@ cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https:
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
 systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [arXiv](https://arxiv.org/abs/2305.00043)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
-multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [arXiv](https://arxiv.org/abs/2301.08179)
+multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF]([https://arxiv.org/abs/2301.08179](https://ieeexplore.ieee.org/document/10279041))
 
 ## Physical Layer Key Generation Based on Wireless Channels
 * **C. Chen**, J. Zhang and Y. Chen, "Adaptive quantization for key generation in low-power wide-area networks," submitted to IEEE Transactions on Information Forensics and Security. [arXiv](https://arxiv.org/abs/2310.07853)
