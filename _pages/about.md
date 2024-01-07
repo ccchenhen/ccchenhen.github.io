@@ -18,11 +18,7 @@ My detailed education background and work experience can be found in [Education 
 * (30 May 2023) I have been awarded a [digital futures](https://www.digitalfutures.kth.se/) postdoctoral fellowship. I will work at KTH Royal Institute of Technology, Sweden, supervised by Prof. Carlo Fischione and Prof. Emil Björnson.
 
 ## Contact
-Email: c.chen77@liverpool.ac.uk  
-Department of Electrical Engineering and Electronics  
-University of Liverpool  
-Brownlow Hill  
-Liverpool L69 3GJ  
-United Kingdom
+Email: chch2@kth.se
+Address: Teknikringen 33, Stockholm, 10044
 
 
