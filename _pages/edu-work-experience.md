@@ -19,6 +19,10 @@ redirect_from:
 * East China University of Science and Technology, Shanghai, China, 2014 - 2018  
 
 # Work Experience
+## Digital Futures Postdoctoral Researcher
+* KTH Royal Institute of Technology, Stockholm, Sweden, Dec 2023 - Present
+* Supervisors: Prof. Carlo Fischione and Prof. Emil Björnson
+  
 ## Postdoctoral Research Associate
 * University of Liverpool, Liverpool, UK, Jan 2022 - Present
 * Supervisor: Dr. [Junqing Zhang](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
