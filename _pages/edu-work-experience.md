@@ -24,7 +24,7 @@ redirect_from:
 * Supervisors: Prof. [Carlo Fischione](https://people.kth.se/~carlofi/) and Prof. [Emil Björnson](https://www.kth.se/profile/emilbjo)
   
 ## Postdoctoral Research Associate
-* University of Liverpool, Liverpool, UK, Jan 2022 - Present
+* University of Liverpool, Liverpool, UK, Jan 2022 - Dec 2023
 * Supervisor: Dr. [Junqing Zhang](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
 * Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
 
