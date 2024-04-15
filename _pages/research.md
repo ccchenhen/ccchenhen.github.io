@@ -27,9 +27,9 @@ _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.o
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
-systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF]([https://arxiv.org/abs/2305.00043](https://ieeexplore.ieee.org/document/10315046))
+systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF](https://ieeexplore.ieee.org/document/10315046)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
-multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF]([https://arxiv.org/abs/2301.08179](https://ieeexplore.ieee.org/document/10279041))
+multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF](https://ieeexplore.ieee.org/document/10279041)
 
 ## Secure Physical Layer Key Generation Based on Wireless Channels
 * **C. Chen**, J. Zhang and Y. Chen, "Adaptive quantization for key generation in low-power wide-area networks," [arXiv](https://arxiv.org/abs/2310.07853)
