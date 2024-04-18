@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology. I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Curie PhD Fellow at the University of Sheffield and a Postdoctoral Research Associate at the University of Liverpool. My current research interests include massive MIMO, mmWave/THz networks, wireless security, signal processing, and machine learning.
+I am a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology. I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Skłodowska-Curie PhD Fellow at the University of Sheffield and a Postdoctoral Research Associate at the University of Liverpool. My current research interests include massive MIMO, wireless intelligence, mmWave/THz networks, and wireless security.
 
 My detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
