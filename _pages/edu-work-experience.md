@@ -23,7 +23,7 @@ redirect_from:
 * KTH Royal Institute of Technology, Stockholm, Sweden, Dec 2023 - Present
 * Supervisors: Prof. [Carlo Fischione](https://people.kth.se/~carlofi/) and Prof. [Emil Björnson](https://www.kth.se/profile/emilbjo)
   
-## Postdoctoral Research Associate
+## Research Associate
 * University of Liverpool, Liverpool, UK, 2022 - 2023
 * Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
 
