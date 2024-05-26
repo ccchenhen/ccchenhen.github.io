@@ -30,6 +30,7 @@ networks," _IEEE Trans. Wireless Commun._, vol. 20, no. 2, pp. 1336-1348, Feb. 2
 penetration losses," _IEEE Internet Things J._, vol. 10, no. 12, pp. 10907-10915, Jun. 2023. [PDF](https://ieeexplore.ieee.org/document/10035292)
 * **C. Chen**, S. Yang, J. Zhang, X. Chu and J. Zhang, "Tractable performance analysis of small-cell networks with
 a novel bounded path loss model," _Electron. Lett._, vol. 56, no. 2, pp. 105–107, 2020. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/el.2019.3299)
+* T. Lu, L. Chen, J. Zhang, **C. Chen** and T. Q. Duong, "Reconfigurable intelligent surface-assisted key generation for millimeter-wave multi-user systems," _IEEE Trans. Inf. Forensics Secur._, vol. 19, pp. 5373-5388, 2024. [PDF](https://ieeexplore.ieee.org/abstract/document/10520332)
 * S. Xu, **C. Chen**, Y. Du, J. Zhang and J. Zhang, "Intelligent reflecting surface backscatter enabled uplink
 coordinated multi-cell MIMO network," _IEEE Trans. Wireless Commun._, vol. 22, no. 8, pp. 5685-5696, Aug. 2023. [PDF](https://ieeexplore.ieee.org/document/10017389)
 * T. Lu, L. Chen, J. Zhang, **C. Chen** and A. Hu, "Joint precoding and phase shift design in reconfigurable
