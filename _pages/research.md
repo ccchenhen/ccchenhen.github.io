@@ -5,7 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
+My research focues on intelligent wireless communications, and large-scale network modelling and optimization. More specifically, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
+
+## Machine Learning for Wireless Communications 
+* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
+* **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
+cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/document/10296835)
+* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
+systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF](https://ieeexplore.ieee.org/document/10315046)
+* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
+multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF](https://ieeexplore.ieee.org/document/10279041)
 
 ## Modeling and Analysis of Large-scale Beyond 5G/6G Networks
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid mmWave and THz networks with downlink
@@ -20,16 +29,6 @@ penetration losses," _IEEE Internet Things J._, vol. 10, no. 12, pp. 10907-10915
 networks," _IEEE Trans. Wireless Commun._, vol. 20, no. 2, pp. 1336-1348, Feb. 2021. [PDF](https://ieeexplore.ieee.org/document/9242275)
 * M. Zhou, **C. Chen** and X. Chu, “Impact of 3D antenna radiation pattern on heterogeneous cellular networks,”
 _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.org/document/9954398)
-
-
-## Machine Learning for Wireless Communications and Security
-* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
-* **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
-cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/document/10296835)
-* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
-systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF](https://ieeexplore.ieee.org/document/10315046)
-* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
-multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF](https://ieeexplore.ieee.org/document/10279041)
 
 ## Secure Physical Layer Key Generation Based on Wireless Channels
 * **C. Chen**, J. Zhang and Y. Chen, "Adaptive quantization for key generation in low-power wide-area networks," [arXiv](https://arxiv.org/abs/2310.07853)
