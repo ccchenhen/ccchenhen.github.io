@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on intelligent and secure wireless communications, by exploring the synergy between theoretical research and experimental investigation. More specifically, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. Additionally, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Finally, I develop secure physical layer key generation protocols based on wireless channels. I have (co)-authored 15+ papers in top-tier IEEE journals and conferences.
+I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
 
 ## Modeling and Analysis of Large-scale Beyond 5G/6G Networks
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid mmWave and THz networks with downlink
