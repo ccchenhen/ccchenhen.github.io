@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focues on intelligent wireless communications, and large-scale network modelling and optimization. More specifically, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO and intelligent reflecting surface (IRS). Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
+My research focues on intelligent wireless communications, and large-scale network modelling and optimization. More specifically, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO, cell-free massive MIMO,  and intelligent reflecting surface (IRS). Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
 
 ## Machine Learning for Wireless Communications 
 * L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
