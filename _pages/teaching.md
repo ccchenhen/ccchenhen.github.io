@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Supervisor, EF112X VT24 Degree project in electrical engineering, basic level (60218)
-* KTH Royal Institute of Technology, Stockholm, Sweden, Jan 2024 - Present
+* KTH Royal Institute of Technology, Stockholm, Sweden, Jan 2024 - June 2024
 * Working as the supervisor for 4 students’ bachelor thesis projects on the topic: machine learning for fast beam
 alignment in intelligent reflecting surface-aided communications.
 
