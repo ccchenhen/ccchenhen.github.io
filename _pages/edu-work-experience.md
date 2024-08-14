@@ -25,7 +25,7 @@ redirect_from:
   
 ## Research Associate
 * University of Liverpool, Liverpool, UK, 2022 - 2023
-* Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things, funded by the UK EPSRC under grant ID EP/V027697/1.
+* Design of novel physical layer key generation protocols which will extract common randomness from wireless channels in long-range Internet of things.
 
 ## Marie Curie Industry Training Network Researcher
 * [Televic Conference](https://www.televic.com/en/conference), Izegem, Belgium, Oct 2020 - Sept 2021
