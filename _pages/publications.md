@@ -11,7 +11,7 @@ You can also find my articles in [Google Scholar](https://scholar.google.com/cit
 
 ## Preprint
 * L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
-* Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid mmWave and THz networks with downlink
+* Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
 and uplink decoupled cell association," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2308.05842)
 
 ## Journal Articles
