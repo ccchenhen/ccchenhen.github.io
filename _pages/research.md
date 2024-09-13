@@ -17,7 +17,7 @@ systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._
 multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF](https://ieeexplore.ieee.org/document/10279041)
 
 ## Modeling and Analysis of Large-scale Beyond 5G/6G Networks
-* Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid mmWave and THz networks with downlink
+* Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
 and uplink decoupled cell association," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2308.05842)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
 base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791134)
