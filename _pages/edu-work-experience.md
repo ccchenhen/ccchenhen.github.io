@@ -20,7 +20,7 @@ redirect_from:
 
 # Work Experience
 ## [Digital Futures](https://www.digitalfutures.kth.se/) Postdoctoral Researcher
-* KTH Royal Institute of Technology, Stockholm, Sweden, Dec 2023 - Present
+* KTH Royal Institute of Technology, Stockholm, Sweden, 2023 - Present
 * Supervisors: Prof. [Carlo Fischione](https://people.kth.se/~carlofi/) and Prof. [Emil Björnson](https://www.kth.se/profile/emilbjo)
   
 ## Research Associate
