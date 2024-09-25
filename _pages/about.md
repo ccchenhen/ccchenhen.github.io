@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology. I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Skłodowska-Curie PhD Fellow. My current research interests include massive MIMO, mmWave/THz networks, wireless intelligence, and signal processing.
 
-My detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+My detailed education background and work experience can be found in [Education and Experience](/edu-work-experience/).
 
 ## News!
 * (28 August 2024) Our paper, "Over-the-Air Computation in Cell-Free Massive MIMO Systems," has been accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
