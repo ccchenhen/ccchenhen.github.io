@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Work Experience"
+title: ""
 permalink: /edu-work-experience/
 author_profile: true
 redirect_from:
