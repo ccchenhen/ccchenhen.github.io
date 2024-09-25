@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-# Education Background
+# Education
 ## Doctor of Philosophy in Electronic and Electrical Engineering
 * University of Sheffield, Sheffield, UK, 2018 - 2022
 * Advisors: Prof. [Jie Zhang](https://www.sheffield.ac.uk/eee/people/academic-staff/jie-zhang), Prof. [Xiaoli Chu](https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu)
@@ -18,7 +18,7 @@ redirect_from:
 ## Bachelor of Engineering in Information Engineering
 * East China University of Science and Technology, Shanghai, China, 2014 - 2018  
 
-# Work Experience
+# Experience
 ## [Digital Futures](https://www.digitalfutures.kth.se/) Postdoctoral Researcher
 * KTH Royal Institute of Technology, Stockholm, Sweden, 2023 - Present
 * Supervisors: Prof. [Carlo Fischione](https://people.kth.se/~carlofi/) and Prof. [Emil Björnson](https://www.kth.se/profile/emilbjo)
