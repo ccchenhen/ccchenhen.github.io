@@ -11,7 +11,7 @@ My research vision is to achieve ubiquitous communication, sensing and intellige
 * L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/document/10296835)
-* **C. Chen**, E. Björnson, C. Fischione, “Over-the-Air Computation in Cell-Free Massive MIMO Systems,” accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
+* **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
 base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791134)
 * S. Xu, **C. Chen**, Y. Du, J. Zhang and J. Zhang, "Intelligent reflecting surface backscatter enabled uplink
@@ -45,4 +45,4 @@ multi-antenna systems,” accepted by IEEE International Conference on Communica
 ## Wireless for AI
 * **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
 * Z. Li, **C. Chen**, C. Fischione, “Channel-aware constellation design for digital OTA computation,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.14675)
-* **C. Chen**, E. Björnson, C. Fischione, “Over-the-Air Computation in Cell-Free Massive MIMO Systems,” accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
+* **C. Chen**, E. Björnson, C. Fischione, “Over-the-air computation in cell-free massive MIMO systems,” accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
