@@ -10,11 +10,11 @@ You can also find my articles in [Google Scholar](https://scholar.google.com/cit
 <sup>*</sup> denotes corresponding author.
 
 ## Preprint
-* **C. Chen**, E. Björnson, C. Fischione, “Multi-Task Over-the-Air Federated Learning in Cell-Free Massive MIMO Systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
+* **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
 * L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Vehicular Technology. [arXiv](https://arxiv.org/abs/2404.08607)
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
 and uplink decoupled cell association," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2308.05842)
-* Z. Li, **C. Chen**, C. Fischione, “Channel-Aware Constellation Design for Digital OTA Computation,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.14675)
+* Z. Li, **C. Chen**, C. Fischione, “Channel-aware constellation design for digital OTA computation,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.14675)
 
 ## Journal Articles
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
