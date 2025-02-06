@@ -43,7 +43,7 @@ _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.o
 to indoor LOS MIMO communications?,” _IEEE Internet Things J._, vol. 7, no. 9, pp. 9116-9127, Sept. 2020. [PDF](https://ieeexplore.ieee.org/document/9127887)
 
 ## Conference Papers
-* **C. Chen**, E. Björnson, C. Fischione, “Over-the-Air Computation in Cell-Free Massive MIMO Systems,” accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
+* **C. Chen**, E. Björnson, C. Fischione, “Over-the-air computation in cell-free massive MIMO systems,” accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
 multi-antenna systems,” IEEE International Conference on Communications, Rome, Italy, 2023, pp. 5861-5866. [PDF](https://ieeexplore.ieee.org/document/10279041)
 * **C. Chen**, Y. Jiang, J. Zhang, X. Chu and J. Zhang, “Parameter optimization for energy efficient indoor massive
