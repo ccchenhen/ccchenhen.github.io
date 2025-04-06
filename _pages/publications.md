@@ -18,7 +18,7 @@ You can also find my articles in [Google Scholar](https://scholar.google.com/cit
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
 and uplink decoupled cell association," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
-systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, accepted. [PDF](https://ieeexplore.ieee.org/document/10315046)
+systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, vol. 19, pp. 1086-1098, 2024. [PDF](https://ieeexplore.ieee.org/document/10315046)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, vol. 23, no. 5, pp. 5287-5298, May. 2024. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
