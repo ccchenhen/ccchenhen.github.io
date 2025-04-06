@@ -21,7 +21,7 @@ to indoor LOS MIMO communications?,” _IEEE Internet Things J._, vol. 7, no. 9,
 
 ## Modeling and Analysis of Large-scale Beyond 5G/6G Networks
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
-and uplink decoupled cell association," accepted by IEEE Transactions on Wireless Communications. [arXiv](https://ieeexplore.ieee.org/abstract/document/10948140)
+and uplink decoupled cell association," accepted by IEEE Transactions on Wireless Communications. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
 base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791134)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the optimal base-station height in mmWave small-cell networks
