@@ -13,6 +13,7 @@ I am a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technol
 My detailed education and experience can be found in [Education and Experience](/edu-work-experience/).
 
 ## News!
+* (11 July 2025) Our paper, "Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks," has been accepted by IEEE Transactions on Vehicular Technology.
 * (20 March 2025) Our paper, "Performance Analysis for Hybrid Sub-6-GHz-mmWave-THz Networks with Downlink and Uplink Decoupled Cell Association," has been accepted by IEEE Transactions on Wireless Communications. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
 * (28 August 2024) Our paper, "Over-the-Air Computation in Cell-Free Massive MIMO Systems," has been accepted by IEEE CAMAD 2024. [arXiv](https://arxiv.org/abs/2409.00517)
 * (26 April 2024) Our paper, "IRS Backscatter Enabled Uplink Multi-User Communications Coexisting With Radar Sensing," has been accepted by IEEE Transactions on Vehicular Technology. [PDF](https://ieeexplore.ieee.org/document/10539007)
