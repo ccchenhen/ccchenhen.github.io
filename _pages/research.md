@@ -8,7 +8,7 @@ author_profile: true
 My research vision is to achieve ubiquitous communication, sensing and intelligence in 6G networks. More specifically, I am working towards machine learning enabled intelligent network optimization with applications to massive MIMO, cell-free massive MIMO, and intelligent metasurfaces. Additionally, I conduct research on the performance modeling and analysis of large-scale beyond 5G/6G multi-band heterogeneous wireless networks. 
 
 ## (Cell-free) Massive MIMO and Intelligent Metasurfaces
-* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
+* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," accepted by IEEE Transactions on Vehicular Technology. [PDF](https://ieeexplore.ieee.org/document/11084997)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, vol. 23, no. 5, pp. 5287-5298, May. 2024. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
