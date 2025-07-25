@@ -34,7 +34,7 @@ networks," _IEEE Trans. Wireless Commun._, vol. 20, no. 2, pp. 1336-1348, Feb. 2
 _IEEE Access_, vol. 10, pp. 120866-120879, 2022. [PDF](https://ieeexplore.ieee.org/document/9954398)
 
 ## AI for Wireless 
-* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2404.08607)
+* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," accepted by IEEE Transactions on Vehicular Technology. [PDF](https://ieeexplore.ieee.org/document/11084997)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
 cell-free MIMO networks," _IEEE Trans. Wireless Commun._, vol. 23, no. 5, pp. 5287-5298, May. 2024. [PDF](https://ieeexplore.ieee.org/document/10296835)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
