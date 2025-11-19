@@ -14,6 +14,7 @@ cell-free MIMO networks," _IEEE Trans. Wireless Commun._, vol. 23, no. 5, pp. 52
 * **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
 * **C. Chen**, J. Zhang, X. Chu and J. Zhang, "On the deployment of small cells in 3D HetNets with multi-antenna
 base stations," _IEEE Trans. Wireless Commun._, vol. 21, no. 11, pp. 9761-9774, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791134)
+* X. Liu, **C. Chen** and C. Fischione, "Cell-Free ISAC Systems: Learning-Based Channel Estimation and Coordinated Beamforming," _IEEE Trans. Cogn. Commun. Netw._, 2025. [PDF](https://ieeexplore.ieee.org/document/11251037)
 * S. Xu, **C. Chen**, Y. Du, J. Zhang and J. Zhang, "Intelligent reflecting surface backscatter enabled uplink
 coordinated multi-cell MIMO network," _IEEE Trans. Wireless Commun._, vol. 22, no. 8, pp. 5685-5696, Aug. 2023. [PDF](https://ieeexplore.ieee.org/document/10017389)
 * Y. Zhang, **C. Chen**, S. Yang, J. Zhang, X. Chu and J. Zhang, “How friendly are building materials as reflectors
@@ -41,6 +42,7 @@ cell-free MIMO networks," _IEEE Trans. Wireless Commun._, vol. 23, no. 5, pp. 52
 systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, vol. 19, pp. 1086-1098, 2024. [PDF](https://ieeexplore.ieee.org/document/10315046)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
 multi-antenna systems,” accepted by IEEE International Conference on Communication (ICC) 2023. [PDF](https://ieeexplore.ieee.org/document/10279041)
+* X. Liu, **C. Chen** and C. Fischione, "Cell-Free ISAC Systems: Learning-Based Channel Estimation and Coordinated Beamforming," _IEEE Trans. Cogn. Commun. Netw._, 2025. [PDF](https://ieeexplore.ieee.org/document/11251037)
 
 ## Wireless for AI
 * **C. Chen**, E. Björnson, C. Fischione, “Multi-task over-the-air federated learning in cell-free massive MIMO systems,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.17874)
