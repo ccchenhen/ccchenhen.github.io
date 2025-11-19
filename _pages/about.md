@@ -10,8 +10,6 @@ redirect_from:
 
 I am an Associate Professor at Nanjing University of Aeronautics and Astronautics. I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Skłodowska-Curie PhD Fellow, under the supervision of Prof. Jie Zhang and Prof. Xiaoli Chu. I was a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology, under the supervision of Prof. Carlo Fischione and Prof. Emil Björnson. My current research interests include UAV swarm, massive MIMO, and aerospace communication networks.
 
-My detailed education and experience can be found in [Education and Experience](/edu-work-experience/).
-
 ## News!
 * (11 November 2025) Our paper, "Cell-Free ISAC Systems: Learning-Based Channel Estimation and Coordinated Beamforming," has been accepted by IEEE Transactions on Cognitive Communications and Networking. [PDF](https://ieeexplore.ieee.org/document/11251037)
 * (11 July 2025) Our paper, "Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks," has been accepted by IEEE Transactions on Vehicular Technology. [PDF](https://ieeexplore.ieee.org/document/11084997)
