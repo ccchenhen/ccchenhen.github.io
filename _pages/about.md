@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Skłodowska-Curie PhD Fellow, under the supervision of Prof. Jie Zhang and Prof. Xiaoli Chu. I was a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology, under the supervision of Prof. Carlo Fischione and Prof. Emil Björnson. My current research interests include massive MIMO, mmWave/THz networks, wireless intelligence, and signal processing.
+I am an Associate Professor at Nanjing University of Aeronautics and Astronautics. I received the B.E. degree from the East China University of Science and Technology, China, in 2018, and the Ph.D. degree from the University of Sheffield, UK, in 2022. I was a Marie Skłodowska-Curie PhD Fellow, under the supervision of Prof. Jie Zhang and Prof. Xiaoli Chu. I was a Digital Futures Postdoctoral Researcher at KTH Royal Institute of Technology, under the supervision of Prof. Carlo Fischione and Prof. Emil Björnson. My current research interests include UAV swarm, massive MIMO, and aerospace communication networks.
 
 My detailed education and experience can be found in [Education and Experience](/edu-work-experience/).
 
