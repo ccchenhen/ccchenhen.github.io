@@ -21,8 +21,8 @@ I am an Associate Professor at Nanjing University of Aeronautics and Astronautic
 * (30 May 2023) I have been awarded a [Digital Futures](https://www.digitalfutures.kth.se/) postdoctoral fellowship. I will work at KTH Royal Institute of Technology, Sweden, supervised by Prof. Carlo Fischione and Prof. Emil Björnson.
 
 ## Contact
-Email: chch2@kth.se
+Email: chenchen8079@nuaa.edu.cn
 
-Address: Teknikringen 33, Stockholm, 10044
+Address: NUAA, Nanjing, China
 
 
