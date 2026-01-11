@@ -53,7 +53,7 @@ multi-antenna systems,” IEEE International Conference on Communications, Rome,
 * **C. Chen**, Y. Jiang, J. Zhang, X. Chu and J. Zhang, “Parameter optimization for energy efficient indoor massive
 MIMO small cell networks,” 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring), 2020, pp. 1-5. [PDF](https://ieeexplore.ieee.org/document/9129437)
 * B. Hu, W. Zhang, D. Jia, F. Wu, **C. Chen**, X. Chu, “Resource allocation optimisation for low-altitude economy-enabled IoT networks,” 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025, pp. 1-6. [PDF](https://ieeexplore.ieee.org/abstract/document/11174569)
-* C. Guo, B. Liu, Z. Sun, **C. Chen**, and Sai Xu, “Secure microwave QR code communication using pseudo-random constellation rotation,” 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Sanya, China, 2024, pp. 2078-2083. [PDF](https://ieeexplore.ieee.org/abstract/document/10945170)
+* C. Guo, B. Liu, Z. Sun, **C. Chen**, and S. Xu, “Secure microwave QR code communication using pseudo-random constellation rotation,” 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Sanya, China, 2024, pp. 2078-2083. [PDF](https://ieeexplore.ieee.org/abstract/document/10945170)
 * T. Lu, L. Chen, J. Zhang, **C. Chen**, T. Q. Duong and M. Matthaiou, “Precoding design for key generation in
 near-field extremely large-scale MIMO communications,” accepted by 2023 IEEE Globecom Workshops.
 * T. Lu, L. Chen, J. Zhang, **C. Chen** and T. Q. Duong, “Reconfigurable intelligent surface-assisted key generation
