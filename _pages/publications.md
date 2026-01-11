@@ -48,8 +48,9 @@ to indoor LOS MIMO communications?,” _IEEE Internet Things J._, vol. 7, no. 9,
 
 ## Conference Papers
 * **C. Chen**, E. Björnson, C. Fischione, “Over-the-air computation in cell-free massive MIMO systems,” 2024 IEEE 29th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Athens, Greece, 2024, pp. 1-6. [PDF](https://ieeexplore.ieee.org/abstract/document/10942978)
-* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning-based secret key generation for IRS-assisted
-multi-antenna systems,” IEEE International Conference on Communications, Rome, Italy, 2023, pp. 5861-5866. [PDF](https://ieeexplore.ieee.org/document/10279041)
+* **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, “Machine learning enhanced near-field secret key generation for extremely large-scale MIMO,” IEEE International Conference on Communications, Rome, Italy, 2023, pp. 5861-5866. [PDF](https://ieeexplore.ieee.org/document/10279041)
+* **C. Chen**, and J. Zhang, “Machine learning-based secret key generation for IRS-assisted
+multi-antenna systems,” 2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, Sweden, 2024, pp. 183-188. [PDF](https://ieeexplore.ieee.org/document/10624801)
 * **C. Chen**, Y. Jiang, J. Zhang, X. Chu and J. Zhang, “Parameter optimization for energy efficient indoor massive
 MIMO small cell networks,” 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring), 2020, pp. 1-5. [PDF](https://ieeexplore.ieee.org/document/9129437)
 * B. Hu, W. Zhang, D. Jia, F. Wu, **C. Chen**, and X. Chu, “Resource allocation optimisation for low-altitude economy-enabled IoT networks,” 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025, pp. 1-6. [PDF](https://ieeexplore.ieee.org/abstract/document/11174569)
