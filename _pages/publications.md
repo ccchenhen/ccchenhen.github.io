@@ -14,7 +14,7 @@ You can also find my articles in [Google Scholar](https://scholar.google.com/cit
 * Z. Li, **C. Chen**, C. Fischione, “Channel-aware constellation design for digital OTA computation,” submitted to IEEE Transactions on Wireless Communications. [arXiv](https://arxiv.org/abs/2501.14675)
 
 ## Journal Articles
-* X. Dong, **C. Chen<sup>*</sup>**, G. Yu, L. Zhou, C. Yuan and J. Zhang, "Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications," _IEEE Trans. Veh. Technol._, accepted.
+* X. Dong, **C. Chen<sup>*</sup>**, G. Yu, L. Zhou, C. Yuan and J. Zhang, "Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications," _IEEE Trans. Veh. Technol._, accepted. [PDF](https://ieeexplore.ieee.org/abstract/document/11353109)
 * L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," _IEEE Trans. Veh. Technol._, accepted. [PDF](https://ieeexplore.ieee.org/document/11084997)
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
 and uplink decoupled cell association," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
