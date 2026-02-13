@@ -15,9 +15,9 @@ You can also find my articles in [Google Scholar](https://scholar.google.com/cit
 
 ## Journal Articles
 * X. Dong, **C. Chen<sup>*</sup>**, G. Yu, L. Zhou, C. Yuan and J. Zhang, "Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications," _IEEE Trans. Veh. Technol._, accepted. [PDF](https://ieeexplore.ieee.org/abstract/document/11353109)
-* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," _IEEE Trans. Veh. Technol._, accepted. [PDF](https://ieeexplore.ieee.org/document/11084997)
+* L. Wang, **C. Chen<sup>*</sup>**, C. Fischione and J. Zhang, "Learning-based joint antenna selection and precoding design for cell-free MIMO networks," _IEEE Trans. Veh. Technol._, vol. 75, no. 1, pp. 579-592, Jan. 2026. [PDF](https://ieeexplore.ieee.org/document/11084997)
 * Y. Wang, **C. Chen<sup>*</sup>** and X. Chu, "Performance analysis for hybrid sub-6GHz-mmWave-THz networks with downlink
-and uplink decoupled cell association," _IEEE Trans. Wireless Commun._, accepted. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
+and uplink decoupled cell association," _IEEE Trans. Wireless Commun._, vol. 24, no. 8, pp. 6658-6673, Aug. 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10948140)
 * **C. Chen**, J. Zhang, T. Lu, M. Sandell and L. Chen, "Secret key generation for IRS-assisted multi-antenna
 systems: A machine learning-based approach," _IEEE Trans. Inf. Forensics Secur._, vol. 19, pp. 1086-1098, 2024. [PDF](https://ieeexplore.ieee.org/document/10315046)
 * **C. Chen**, S. Xu, J. Zhang and J. Zhang, "A distributed machine learning-based approach for IRS-enhanced
